@@ -49,7 +49,7 @@ This is the folder that can be imported into Godot 3.6 to run the project. In he
 |------------------|-------------|
 | `ArtAssets/`     | Art assets used for the project. |
 | `Components/`     | Projectile and telegraph objects used by the enemies and player. |
-| `Entities`     | Enemies and player classes. |
+| `Entities/`     | Enemies and player classes. |
 | `GUI/`     | GUI elements for player cooldowns, enemy health, etc. |
 | `Scenes/`     | Various menus used by the player including the enemy behavior visualization tool. |
 | `Scripts/`     | Scripts for pathfinding and behavior tree scaffolding. |
